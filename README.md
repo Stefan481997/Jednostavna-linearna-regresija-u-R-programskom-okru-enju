@@ -1,1 +1,1 @@
-# Jednostavna-linearna-regresija-u-R-programskom-okru-enju
+# Jednostavna-linearna-regresija-u-R-programskom-okruzenju
